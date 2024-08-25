@@ -21,7 +21,9 @@ Sub-£200!!
 It can come out to being a lot cheaper given the ubiquity of most of these parts, and my overestimating of filament used (I used just over a kilogram for 3 full prototypes!)
 
 ## Setup instructions
-Follow assembly as shown in the full CAD model, available under the CAD folder. I've also provided pictures from every orthogonal direction, so it should be simple to assemble with those two resources combined. 
+Follow assembly as shown in the full CAD model, available under the CAD folder. I've also provided pictures from every orthogonal direction, so it should be simple to assemble with those two resources combined.
+
+For the code, you only need to enter the steps per revolution of your stepper motor (divided by whatever fractional step you're using! I.E. for a quarter step motor, multiply this value by 4) and some values specific to your leadscrew (for steps per unit). I've designed this to be entirely unit-agnostic, so if you enter values in TPI (threads per inch) it will treat it the same as metric thread pitch. However, GCode standards use metric so maybe be aware of that....
 
 ## Functionality
 I haven't managed to test this yet, due to lead times on some parts, but I am expecting to be able to cut aluminium and possibly thin steel with this! MDF and Plywood should definitely be cuttable with this system. 
