@@ -1,7 +1,7 @@
 ![image](Images/FinalVersionRender.png)
 
+![cooltext464841463133790](https://github.com/user-attachments/assets/02b6618e-54bd-405e-861c-a3f1e3cdac62)
 
-# Open-Router-Project
 A mostly 3D printed CNC Router + Firmware (for any arduino microcontroller) that I designed and developed myself!
 
 
