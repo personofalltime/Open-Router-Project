@@ -1,4 +1,4 @@
-![image](Images/FinalVersionRender.png) ![image](Images/FinalVersionSpindle.jpg)
+![image](Images/FinalVersionRender.png)
 
 
 # Open-Router-Project
