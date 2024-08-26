@@ -1,4 +1,4 @@
-![image](https://github.com/personofalltime/Open-Router-Project/blob/2f2fd7390c4f248d56b09ca7629e46c92bd6543f/Images/FinalVersionRender.png)
+![image](https://github.com/user-attachments/assets/4164b2e7-899a-4492-ba81-d032aae88ad0)
 
 # Open-Router
 
@@ -31,5 +31,8 @@ I haven't managed to test this yet, due to lead times on some parts, but I am ex
 ## Previous Versions
 Here are some images of the previous CAD iterations I went through before settling on this design, from most to least recent! The first image was actually the one I was going to make, but that was while I was holding out hope that a belt would miraculously be suitable for this application. After making it halfway through the project I had a reality check and stopped praying for a miracle, and replaced the mechanism with a £3 leadscrew off of Amazon (which worked flawlessly). 
 
-![image](Images/Mk7.jpg) ![image](Images/Mk6.jpg) ![image](Images/Mk5.jpg)
+![image](https://github.com/user-attachments/assets/6d581183-97ae-498d-a2e9-14d8c970740b)
+![image](https://github.com/user-attachments/assets/52814c9b-115c-41f5-8ee4-66ede430d519)
+![image](https://github.com/user-attachments/assets/910dbe25-f6d9-4817-bb58-29262b1b803d)
+
 
